@@ -1,0 +1,8 @@
+1,1,Matei,Georgiana,25,23-10-2024 16:00,consultatie
+2,2,Toma,Claudiu,46,23-10-2024 17:00,control de rutina
+3,3,Muresan,Teodora,37,13-11-2024 12:30,extractie
+4,4,Popescu,Cornel,52,13-11-2024 13:30,albire dentara
+5,5,Trif,Viorica,21,05-12-2024 10:00,detartraj
+6,6,Vlad,Marius,32,10-12-2024 13:00,consultatie
+7,3,james,smith,54,12-12-2025 13:00,consult
+8,1,Matei,Georgiana,25,19-12-2024 13:00,implant
