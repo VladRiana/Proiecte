@@ -1,0 +1,3 @@
+C:/Users/Asus/Desktop/OOP/Simulare_parcometru/cmake-build-debug/CMakeFiles/Simulare_parcometru.dir
+C:/Users/Asus/Desktop/OOP/Simulare_parcometru/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Asus/Desktop/OOP/Simulare_parcometru/cmake-build-debug/CMakeFiles/rebuild_cache.dir
